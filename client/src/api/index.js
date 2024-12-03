@@ -2,7 +2,7 @@ import axios from "axios";
 
 //const API = axios.create({ baseURL: 'http://localhost:3001'})
 const API = axios.create({
-  baseURL: "https://web-production-4444.up.railway.app",
+  baseURL: "https://web-production-f2fa.up.railway.app",
 });
 
 const profile = JSON.parse(localStorage.getItem("profile"));
