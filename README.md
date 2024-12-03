@@ -11,7 +11,7 @@
     <a href="https://github.com/arnb-smnta/expense-split-app-revamped"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://split-app-arnab.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/arnb-smnta/expense-split-app-revamped/issues">Report Bug</a>
     ·
