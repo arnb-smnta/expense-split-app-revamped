@@ -19,6 +19,7 @@
     "change-case": "^4.1.2",
     "chart.js": "^3.8.0",
     "chartjs-plugin-datalabels": "^2.0.0",
+    "date-fns": "^2.30.0",
     "formik": "^2.2.9",
     "gravatar-url": "^4.0.1",
     "mongoose": "^8.8.3",
