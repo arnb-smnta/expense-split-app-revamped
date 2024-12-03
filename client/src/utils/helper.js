@@ -58,7 +58,10 @@ Number.prototype.zeroPad = function () {
   return ("0" + this).slice(-2);
 };
 
-export const githublink = "";
-export const reportabug = "";
-export const requestfeature = "";
-export const liveLink = "";
+export const githublink =
+  "https://github.com/arnb-smnta/expense-split-app-revamped";
+export const reportabug =
+  "https://github.com/arnb-smnta/expense-split-app-revamped/issues";
+export const requestfeature =
+  "https://github.com/arnb-smnta/expense-split-app-revamped/issues";
+export const liveLink = "https://split-app-arnab.netlify.app/";
