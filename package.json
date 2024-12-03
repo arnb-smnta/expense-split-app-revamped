@@ -1,0 +1,36 @@
+{
+  "name": "splitapp",
+  "version": "1.0.0",
+  "description": "This is a group money spliting app made with MERN stack ",
+  "main": "app.js",
+  "scripts": {
+    "test": "npx nodemon app.js",
+    "start": "nodemon -r dotenv/config --experimental-json-modules app.js",
+    "heroku-postbuild": "cd client && npm install && npm run build",
+    "dev": "concurrently \"npm test\" \"cd client && npm start\" "
+  },
+  "keywords": [
+    "SplitWise"
+  ],
+  "author": "ARNAB SAMANTA",
+  "license": "ISC",
+  "dependencies": {
+    "@mui/x-data-grid": "^5.12.3",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^16.0.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.8",
+    "morgan": "~1.9.1",
+    "winston": "^3.7.2"
+  },
+  "devDependencies": {
+    "concurrently": "^7.2.2",
+    "nodemon": "^3.1.7"
+  }
+}
