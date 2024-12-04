@@ -1,6 +1,6 @@
 <div align="center">
   <a href="">
-    <img src="https://github.com/tuzup/SplitApp/blob/master/client/public/static/logo.png?raw=true" alt="Logo" width="80" height="80">
+    <img src="https://github.com/arnb-smnta/expense-split-app-revamped/blob/main/client/public/static/logo.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center">SplitApp</h2>
