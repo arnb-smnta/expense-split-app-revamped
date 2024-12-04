@@ -23,7 +23,7 @@ const About = () => {
         <div align="center">
           <a href="/">
             <img
-              src="https://github.com/tuzup/SplitApp/blob/master/client/public/static/logo.png?raw=true"
+              src="https://github.com/arnb-smnta/expense-split-app-revamped/blob/main/client/public/static/logo.png?raw=true"
               alt="Logo"
               width="80"
               height="80"
@@ -46,7 +46,7 @@ const About = () => {
         <br />
         <center>
           <img
-            src="https://raw.githubusercontent.com/tuzup/SplitApp/master/Screenshots/dashboard-main-transparent.png"
+            src="https://github.com/arnb-smnta/expense-split-app-revamped/blob/main/Screenshots/dashboard-main-transparent.png"
             alt="splitapp"
             width={"80%"}
           />
@@ -104,7 +104,7 @@ const About = () => {
         <br />
         <center>
           <img
-            src="https://raw.githubusercontent.com/tuzup/SplitApp/master/Screenshots/combined-screenshot.png"
+            src="https://github.com/arnb-smnta/expense-split-app-revamped/blob/main/Screenshots/combined-screenshot.png"
             alt="Features"
             width={"80%"}
           />
